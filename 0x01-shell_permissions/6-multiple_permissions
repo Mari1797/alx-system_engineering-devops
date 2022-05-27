@@ -1,3 +1,4 @@
 chmod if+x,o+r hello
 chmod if+x,o+r hello
 chmod ug+x,o+r hello
+chmod ug+x,o+r hello
