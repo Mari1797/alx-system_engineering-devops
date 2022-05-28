@@ -1,6 +1,2 @@
-!#/bin/bash
-chmod 007 hello
-[master d3e2062] roti commit
- 2 files changed, 1 insertion(+)
- create mode 100644 0x01-shell_permissions/8-James_bond
+#!/bin/bash
 chmod 007 hello
