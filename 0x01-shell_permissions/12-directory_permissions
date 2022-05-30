@@ -1,2 +1,4 @@
 #!/bin/bash
  mkdir -m 751 my_dir
+[master 412b64a] task 12
+ 2 files changed, 5 deletions(-)
