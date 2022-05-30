@@ -1,4 +1,2 @@
 #!/bin/bash
-file /tmp/iamafile
-[master 4afe768] eleven task
- 1 file changed, 1 insertion(+), 1 deletion(-)
+file /tmp/iamfile
