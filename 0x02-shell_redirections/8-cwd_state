@@ -1,6 +1,2 @@
- #!/bin/bash
+#!/bin/bash
  ls -la > ls_cwd_content
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
